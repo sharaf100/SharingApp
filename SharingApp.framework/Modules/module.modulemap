@@ -1,0 +1,6 @@
+framework module SharingApp {
+  umbrella header "SharingApp.h"
+  export *
+
+  module * { export * }
+}
